@@ -1,4 +1,4 @@
-#Sample of an Angular app with Protractor tests
+#Running concurrent protractor tests.
 
 - Generated angular app using yeoman.
 
